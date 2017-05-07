@@ -1,0 +1,2 @@
+debian/bin/PartyCoind usr/bin
+src/PartyCoind usr/lib/PartyCoin

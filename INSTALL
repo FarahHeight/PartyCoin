@@ -1,0 +1,9 @@
+Building PartyCoin
+
+See doc/readme-qt.rst for instructions on building PartyCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PartyCoin.
+
+See doc/build-*.txt for instructions on building PartyCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PartyCoin.
